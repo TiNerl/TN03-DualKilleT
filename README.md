@@ -1,4 +1,4 @@
-# 🚀 Projeto TN03 — Codinome: DualKiller
+# 🚀 Projeto TN03 — Codinome: DualKilleT
 
 Documentação técnica, especificação de hardware, estimativas de consumo energético e decisões de arquitetura de software para o nó de processamento **TN03 (DualKiller)**.
 
@@ -6,7 +6,7 @@ Documentação técnica, especificação de hardware, estimativas de consumo ene
 
 ## 📌 Visão Geral do Projeto
 
-O nó **TN03 "DualKiller"** é um servidor de alta densidade de processamento projetado para atuar como homelab principal, ambiente de desenvolvimento distribuído, hospedagem de microserviços e suporte a projetos acadêmicos e de conclusão de curso (TCC).
+O nó **TN03 "DualKilleT"** é um servidor de alta densidade de processamento projetado para atuar como homelab principal, ambiente de desenvolvimento distribuído, hospedagem de microserviços e suporte a projetos acadêmicos e de conclusão de curso (TCC).
 
 * **Objetivo Principal:** Execução de virtualização (Proxmox VE), containers Docker, servidores de jogos e pipelines de teste.
 * **Orçamento Total Aprovado:** R$ 1.100,00 (parcelado em 10x).
