@@ -48,15 +48,14 @@ Com a redefinição do escopo (remoção das GPUs de inteligência artificial de
 
 ## 🚦 Tabela Kanban de Status (GitHub Projects Format)
 
-+------------------------------------+------------------------------------+------------------------------------+
-|            📋 TO DO                |           ⏳ IN PROGRESS           |              ✅ DONE               |
-+------------------------------------+------------------------------------+------------------------------------+
-| ⚪ Montagem física do hardware     | 🟡 Acompanhar entrega dos pedidos   | 🟢 Seleção dos processadores       |
-| ⚪ Formatação com Proxmox VE        | 🟡 Validação do arranjo de RAM     | 🟢 Viabilidade da fonte VS550      |
-| ⚪ Configuração de Linux Bridges    |                                    | 🟢 Descarte do projeto de M40 GPUs |
-| ⚪ Migração dos containers Docker  |                                    | 🟢 Compra do Kit Hardware (R$1.100)|
-+------------------------------------+------------------------------------+------------------------------------+
+| 📋 TO DO | ⏳ IN PROGRESS | ✅ DONE |
+| :--- | :--- | :--- |
+| • Montagem física do hardware | • Acompanhar entrega dos pedidos | • Seleção dos processadores |
+| • Formatação com Proxmox VE | • Validação do arranjo de RAM | • Viabilidade da fonte VS550 |
+| • Configuração de Linux Bridges | _(Aguardando entregas)_ | • Descarte do projeto de M40 GPUs |
+| • Migração dos containers Docker | | • Compra do Kit Hardware (R$ 1.100) |
 
+---
 
 ### Detalhamento dos Cards de Decisão
 
